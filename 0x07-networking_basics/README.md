@@ -1,0 +1,1 @@
+The foundations of networking: switches, routers, and wireless access points. Switches, routers, and wireless access points are the essential networking basics. Through them, devices connected to your network can communicate with one another and with other networks, like the Internet.
