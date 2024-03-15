@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/bin/env bash
 
 # Check if the number of arguments provided is correct
 if [ "$#" -ne 1 ]; then
@@ -10,3 +10,4 @@ ip_address="$1"
 
 # Ping the specified IP address and display the result
 ping -c 5 "$ip_address"
+
