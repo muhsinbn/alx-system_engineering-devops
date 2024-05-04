@@ -1,6 +1,6 @@
-0x0A. Configuration management
-Resource
-Intro to Configuration Management
+# 0x0A. Configuration management
+# Resource
+[Intro to Configuration Management](https://www.digitalocean.com/community/tutorials/an-introduction-to-configuration-management)
 Puppet resource type: file (Check "Resource types" for all manifest types in the left menu)
 Puppet’s Declarative Language: Modeling Instead of Scripting
 Puppet lint
