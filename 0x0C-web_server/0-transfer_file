@@ -16,4 +16,4 @@ ssh_key=$4
 scp -o StrictHostKeyChecking=no -i "$ssh_key" "$file_path" "$username"@"$server_ip":~/
 
 # Remotely execute the ls ~/ command via SSH to see what ~/ contains
-ssh -i "$ssh_key" "$username"@"$server_ip" "ls ~/"
+#ssh -i "$ssh_key" "$username"@"$server_ip" "ls ~/"
