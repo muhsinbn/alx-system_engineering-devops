@@ -1,5 +1,6 @@
-https://github.com/hunterxcobby/alx-system_engineering-devops/tree/master/0x0F-load_balancer#project-0x0f-load-balancer
+# Project: 0x0F. Load balancer
 
-https://github.com/hunterxcobby/alx-system_engineering-devops/tree/master/0x0F-load_balancer#resources
+#Resources
+**Read or watch :-**
 
-https://github.com/hunterxcobby/alx-system_engineering-devops/tree/master/0x0F-load_balancer#read-or-watch--
+([https://www.digitalocean.com/community/tutorials/an-introduction-to-haproxy-and-load-balancing-concepts]) Introduction to load-balancing and HAproxy
