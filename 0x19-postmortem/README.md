@@ -22,10 +22,10 @@ Resolution: Database server capacity was increased, allowing for smoother proces
 ## Corrective and Preventative Measures:
 
 Improvements/Fixes: Enhance scaling mechanisms, conduct regular load testing, improve monitoring and alerting systems.
-Task List:
-**Implement automatic scaling mechanisms.
+## Task List:
+Implement automatic scaling mechanisms.
 Perform regular load testing to identify bottlenecks.
 Enhance monitoring for early issue detection.
-Develop an incident response plan.**
+Develop an incident response plan.
 
 By addressing the root cause of the outage and implementing proactive measures, we aim to improve the system's resilience and provide uninterrupted service to users.
